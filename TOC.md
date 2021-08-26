@@ -134,6 +134,7 @@
 + 教程
   + [同城多中心部署](/multi-data-centers-in-one-city-deployment.md)
   + [两地三中心部署](/three-data-centers-in-two-cities-deployment.md)
+  + [同城两中心部署](/two-data-centers-in-one-city-deployment.md)
   + 读取历史数据
     + 使用 Stale Read 功能读取历史数据（推荐）
       + [Stale Read 使用场景介绍](/stale-read.md)
@@ -202,6 +203,7 @@
     + [运维管理](/ticdc/manage-ticdc.md)
     + [故障诊断](/ticdc/troubleshoot-ticdc.md)
     + [监控指标](/ticdc/monitor-ticdc.md)
+    + [TiCDC Open API](/ticdc/ticdc-open-api.md)
     + [TiCDC Open Protocol](/ticdc/ticdc-open-protocol.md)
     + [将 TiDB 集成到 Confluent Platform](/ticdc/integrate-confluent-using-ticdc.md)
     + [术语表](/ticdc/ticdc-glossary.md)
